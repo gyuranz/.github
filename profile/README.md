@@ -3,8 +3,8 @@
 <br/>
 
 ###  📅 project period
-- 2023. 07. 03. ~ 2023. 08. 12.
-
+_2023. 07. 03. ~ 2023. 08. 12._
+ 
 <table>
   <tr>
     <td align="center"><b>Frontend</b></td>
