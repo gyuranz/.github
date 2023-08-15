@@ -2,7 +2,7 @@
 ### TEAM gyuranz
 <br/>
 
-###  📅 period of project
+###  📅 project period
 - 2023.07.03. ~ 2023.08.12.
 
 <table>
@@ -25,3 +25,4 @@
     <td align="center"><a href=""><img src="" width="100px" /></a></td>
   </tr>
 </table>
+---
