@@ -54,3 +54,7 @@ ___2023. 07. 03. ~ 2023. 08. 12.___
 ### 8. Quiz
 - 스터디 내용을 기반으로 10개의 OX퀴즈가 출제됩니다.
 - 스터디의 핵심 내용을 한 번 더 복습하여 스터디 효과 ⬆️⬆️
+
+<br/>
+## Architecture
+<img src="https://avatars.githubusercontent.com/u/128982688?v=4" width="720" />
