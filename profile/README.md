@@ -57,4 +57,5 @@ ___2023. 07. 03. ~ 2023. 08. 12.___
 
 <br/>
 ## Architecture
-<img src="https://avatars.githubusercontent.com/u/128982688?v=4" width="720" />
+<img width="1800" alt="architecture" src="https://github.com/gyuranz/.github/assets/43124902/8644ae60-07c3-4b80-bf09-0635f2020dc9">
+
