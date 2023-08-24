@@ -1,4 +1,4 @@
-# AItoLearn
+# 당신의 영원한 스터디 메이트  AItoLearn
 ### TEAM gyuranz
 <br/>
 
