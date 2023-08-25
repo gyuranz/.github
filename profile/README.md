@@ -10,7 +10,7 @@ ___2023. 07. 03. ~ 2023. 08. 10.___
 ##  Members 
 <table>
   <tr>
-    <td align="center"><b>Frontend</b></td>
+    <td align="center"><b>Frontend / Leader</b></td>
     <td align="center"><b>Backend</b></td>
     <td align="center"><b>Backend</b></td>
     <td align="center"><b>Backend</b></td>
